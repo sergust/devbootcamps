@@ -1,0 +1,27 @@
+{
+  "name": "devcamp",
+  "version": "1.0.0",
+  "description": "Devcamper backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergust/devcamp.git"
+  },
+  "author": "Sergey Ustinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergust/devcamp/issues"
+  },
+  "homepage": "https://github.com/sergust/devcamp#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
