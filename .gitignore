@@ -3,3 +3,5 @@ devcamper_project_resources
 node_modules
 config/config.env
 .prettierrc
+_data
+.gitignore
