@@ -2,3 +2,4 @@ devcamper_project_resources
 .DS_Store
 node_modules
 config/config.env
+.prettierrc
