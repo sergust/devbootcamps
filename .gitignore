@@ -5,3 +5,4 @@ config/config.env
 .prettierrc
 _data
 .gitignore
+.jshintrc
